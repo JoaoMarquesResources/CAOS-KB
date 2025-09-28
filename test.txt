@@ -1,1 +1,990 @@
-dasdasd
+This document is the knowledge base of our agency called “Content Agency OS” which helps content agencies scale to $100k/mo without chaos by building better back-end systems.
+
+# ICP
+Content agencies doing >$10k/mo who are struggling to scale due to having unscalable, disorganized and chaotic systems.
+Main headline: “Ops Systems For Content Agencies To Handle More Clients, Hire Less & Scale To $100k/m Without Chaos. Don’t worry about ops ever again.”
+Main ICP pain points:
+* You can’t bring on more clients without sacrificing quality and turnaround time
+* Your team is unproductive
+* You spend all day in the DMs back and forth
+* You don’t track results so you can justify the price of your services
+* And on top of that, hiring is just one more bottleneck that you have to deal with
+Positioning:
+DIY Approach
+1. 6-9 months implementation
+2. Trial and error learning
+3. Your team’s time investment
+4. Uncertain adoption
+5. Requires technical expertise
+DFY Content Agency OS
+1. Fully DFY
+2. 90 days implementation
+3. Proven systems
+4. Guaranteed adoption
+5. ROI guaranteed
+
+# Offer
+Core Offer Components:
+* Fully customized Content Agency OS
+* Airtable Interfaces & Database
+* Airtable + Make.com Automations
+* AI Models for Content Creation
+* SOPs + Training Documentation
+* Slack Channel Architecture
+* Google Drive and Frame.io Folder Structure
+
+# Our Sales Process
+Ops Audit Call -> Whip up proposal -> Proposal Call -> Send proposal + invoice -> Payment received -> Book Kick-off Call
+Objection Handling:
+1. Too Hard / No Time / “I don’t want to switch systems”
+* We'll help you bring all the data from the old system to the new system
+* We'll help you onboard your clients and team members to the system
+* We’ll create SOPs for everything
+* You only pay the final amount once everyone is onboarded and everything looks good
+* After the project is completed we'll monitor it and make sure it runs smoothly until the contract ends
+2. No Money
+* Don’t you think that the problems that this system solves, justifies the price tag?
+* Do you think you can reach your X goal without a solution to your problems?
+* What about you pay $1k upfront and the rest when the system is ready to go and you are in a better position financially to invest the rest?
+
+# Examples Of Our Content
+The content below are posts we’ve made—not necessarily top performers, but meant to give you an idea of the type of content we create.
+
+
+## LinkedIn Content
+"""
+Scaling a YouTube Content Agency is HARD.
+
+
+You want to focus on client acquisition, but you're stuck dealing with:
+
+
+→ Managing current clients and their results
+→ Keeping an eye on multiple team members
+→ Tracking dozens of videos in production
+→ Constant DMs and manual tasks
+→ Putting out fires every day
+
+
+This chaos exists because you don’t have a real system.
+
+
+And no — Notion, ClickUp, or Asana won’t fix it.
+
+
+Those tools were made for project management, not for scaling content operations.
+
+
+They lack the structured database approach needed to track content status, centralize links, and keep everything accessible.
+
+
+A real content management system should function like a database.
+
+
+That’s where Airtable comes in.
+
+
+With a centralized Airtable database, you:
+
+
+→ Eliminate data duplication
+→ Create a single source of truth
+→ Build powerful automations
+→ Set up real-time dashboards and portals
+→ Position your agency for success
+
+
+Yes, tools like Asana can help manage content workflows, but they don’t offer the structure needed to systemize and *scale* a content agency.
+
+
+The key is building an Airtable system around:
+
+
+→ Client acquisition
+→ Client management
+→ Team management
+→ Deliverable tracking
+→ Communication channels
+
+
+All connected. All automated. All in one place.
+
+
+Make the switch before you burn out trying to duct-tape it all together.
+
+
+P.S - Want help scaling your YT agency? shoot me a DM.
+"""
+"""
+Here’s how you build a system for quality checking work inside your content agency.
+
+
+Let’s break down the video editing part:
+
+
+First, you need to set clear deliverable statuses like:
+
+
+→ New
+→ Sent to Editor
+→ In Progress
+→ Submitted for Quality Assurance
+→ Editing Revisions
+→ Approved By Creative Director
+→ Submitted for Client Review
+→ Client Requested Revisions
+→ Approved
+
+
+The goal is to move and track the video through each stage until it’s approved by the client.
+
+
+Now, you need a system to manage this flow.
+
+
+For content agencies just starting out:
+
+
+→ Set up a Trello board
+→ Manually move projects through each status
+→ Manually message editors and clients with next steps
+→ Use Frame.io to leave feedback and comments
+
+
+For agencies that want to scale:
+
+
+→ Set up an Airtable base
+→ Create a portal for the Creative Director
+→ Create a portal for Editors
+→ Create a portal for Clients
+→ Build automations that update deliverable statuses as work progresses
+→ Build automations that send Slack messages to the QA channel and the Client channel
+→ Use Frame.io to leave feedback and comments
+
+
+The advantage of using portals is giving each person a custom interface—only showing the data and actions relevant to them. With buttons, checkboxes, and automations, the workflow becomes much faster and way more reliable.
+
+
+If built properly, the system can scale to hundreds of deliverables without chaos. You’ll just need to hire more people to keep up!
+
+
+P.S. Want a deeper breakdown? Search on YouTube for: “How To Build a Quality Check System For Your Content Agency”
+"""
+"""
+“What’s the status of our videos?”
+“I don’t think you’re actually working on the content…”
+“I haven’t seen any progress.”
+
+
+These client messages suck.
+
+
+Especially when you and your team are working hard on ideation, scripting, editing — everything needed to make that content succeed.
+
+
+But the issue isn’t the quality of the deliverables.
+
+
+It’s the lack of visibility.
+
+
+Clients pay you thousands, yet they can’t see the value being created day to day.
+
+
+No feedback loop. No real-time progress. No sense of involvement.
+
+
+The result?
+
+
+They feel disconnected, question the value, and eventually churn.
+
+
+Here’s the straightforward fix:
+
+
+Build a client portal designed for content agencies.
+
+
+One place where clients can:
+
+
+→ Access their content dashboard
+→ Track project progress
+→ View the content calendar
+→ Submit post-production requests
+→ Review and approve deliverables
+
+
+It’s the difference between:
+
+
+“Where are we at?”
+ vs.
+“Damn, this team’s on top of it.”
+
+
+Same work. Better visibility.
+
+
+P.S. I made a YouTube video showing exactly how to build one. Search: “How To Build A Client Portal That Stops Churn for Content Agencies”
+"""
+"""
+Here's the 1 thing that made my client’s content agency team 3x more productive.
+
+
+We built a team portal where each member can:
+
+
+→ See exactly what they need to work on
+→ Get auto-notified when it’s time to act
+→ Track their own progress
+→ Access all the info needed to do a great job
+→ Easily submit work for review
+
+
+Sometimes it’s not a people problem—
+
+
+it’s a systems problem.
+"""
+"""
+This outreach method is crushing for content agencies.
+
+
+It’s not mass DMs,
+
+
+it’s not AI-generated spam,
+
+
+it’s not begging for a call.
+
+
+It’s manual, personalized outreach to dream prospects — where you send free work upfront that solves a specific pain point.
+
+
+Why does it work?
+
+
+ → Cuts through the noise of lazy, copy-paste messages
+ → Shows you're serious about helping them
+ → Builds trust by giving before asking
+ → Demonstrates your skills through real value
+ → Gets higher open, reply, and close rates
+
+
+What kind of free work?
+
+
+ • Content idea bank
+ • Video editing
+ • Video thumbnail
+ • LinkedIn/X posts
+ • Ad script
+ • Email sequence
+ • Short-form clips
+
+
+Make sure:
+
+
+→ Your free work actually solves a real pain point
+→ You're reaching out to genuinely qualified leads
+→ You record a Loom presenting the value
+→ You follow up — don’t ghost your own work
+
+
+Depending on the type of free work, aim for ~4 outreaches per day.
+
+
+Consistency is key here. Build the habit.
+
+
+Because the math is simple:
+
+
+100 quality outreaches = 2–5 new clients
+
+
+Now you're probably thinking:
+
+
+“That makes total sense, I’ll start doing this...  but how do I actually get the leads and manage them?”
+
+
+Or maybe you’re already overthinking how hard this manual strategy is to keep up with.
+
+
+Either way — yeah, it’s not easy.
+
+
+But you can make it easier by building the right systems around it.
+
+
+ → A system to find qualified leads worth doing free work for 
+ → A system to track and manage everything without losing your mind
+
+
+🟢 System 1: Lead Gen & Qualification
+
+
+ • Use manual search or tools like Apollo
+ • Run all leads through AI to:
+ • Check if they fit your ICP
+ • Generate icebreakers
+ • Optional: enrich the data with socials, websites, etc.
+
+
+🟢 System 2: CRM & Outreach Tracking
+
+
+Build a simple Airtable CRM that:
+
+
+ • Tracks leads from cold to closed
+ • Tells you exactly who to follow up with each day
+ • Uses AI to help you create the free value faster
+ • Tracks multi-platform outreach (LinkedIn, Email, X, etc.)
+ • Logs open/reply rates so you can improve with data
+ • Keeps you accountable with daily inputs
+
+
+Build these 2 systems now so you can finally stop:
+
+
+ 🚫 Wasting time on low-quality leads
+ 🚫 Living inside messy tracking sheets
+ 🚫 Dropping the ball on follow-ups
+ 🚫 Wondering why your outreach isn’t working
+
+
+And instead:
+
+
+ ✅ Get real results from cold outreach
+ ✅ Fill your pipeline with dream prospects 
+ ✅ Close 15 clients before the end of the year
+
+
+P.S. Want our help scaling your content agency with these (and more) systems? DM me “OS” and I’ll show you how it works.
+"""
+"""
+If you spend all day chatting back and forth with your team and clients…
+ you won’t have time to grow the business.
+
+
+Communication is key for running a successful content agency —
+ but it has to be efficient.
+
+
+That’s why we set up Slack automations for our clients.
+So everyone stays in the loop — without the founder having to babysit chats.
+
+
+Here’s how it works:
+
+
+1️⃣ Create an Airtable base to manage team, clients & deliverables
+2️⃣ Set up Airtable Automations that send Slack messages when something happens
+3️⃣ Embed direct links to the exact project or client portal inside the message
+
+
+Example – Client Channel:
+
+
+"Hey @Client! We've brainstormed a new content idea for you. Please review and approve it so we can start working on the script — click here to check it out"
+
+
+"Hey @Client! We’ve just finished editing one of your upcoming videos ([title]), and it's ready for your review. You can leave any comments for us to make the necessary adjustments, or if everything looks good, you can approve it right away!
+- click here to open"
+
+
+Example – Video Editor Channel:
+
+
+"Hey @Editor. New video editing request received! Check your interface for more details - Your Interface"
+
+
+"Hey @Creative Director! C31 - Video Editing v1 has been submitted for quality check. Please take a look and share your feedback with the editor.
+- Your Interface"
+
+
+The results:
+✅ Better client & team experience
+✅ Faster approvals & delivery
+✅ More productive team
+✅ Founder gets their time back to focus on growth
+
+
+P.S. Want our help scaling your content agency with these (and more) systems? DM me “OS” and I’ll show you how it works.
+"""
+"""
+Most content agency owners think the thing holding them back is more clients.
+
+
+For Shaz Mathew, the opposite was true.
+
+
+He had a strong offer, inbound lead flow, and the skills to deliver…
+
+
+But he was capped at 3 clients because everything depended on him.
+
+
+He was ready to quit.
+
+
+Instead, we built him a Content Agency OS™:
+
+
+ ⚙️ Clean team & client portals
+ ⚙️ Pre + post-production pipelines
+ ⚙️ AI-powered scripting & repurposing
+ ⚙️ Automatic Slack updates
+ ⚙️ SOPs his team could actually follow 
+
+
+Result?
+ → From $5k/mo to $26k/mo
+ → Handling 10+ clients with just 45 minutes/day on fulfillment
+ → A system that could scale to 100+ clients without breaking
+
+
+Want to see the exact systems we built for Shaz that made this possible?
+
+
+Comment “OS” and I’ll send it to you for free.
+
+
+(make sure you’re connected with me)
+"""
+"""
+Scaling a content agency isn’t just about getting more clients.
+
+
+It’s about building a team that actually delivers, so you get time and peace of mind back.
+
+
+If you’ve tried hiring already, you’ve probably seen these issues:
+
+
+- Poor English fluency
+- Endless revisions because they “just don’t get your vision”
+- Lack of communication
+- No accountability for mistakes
+- Missed deadlines
+
+
+Sound familiar? Then it’s time to add friction to your hiring process with the intention of DISQUALIFYING as many people as possible.
+
+
+Here’s how:
+
+
+1. Add an “optional” video submission field asking candidates why they’d be a good fit. Auto-DQ anyone who skips it.
+2. Set expectations upfront by asking about availability in your hiring form.
+3. Have new hires do “test edits” on non-urgent projects before committing fully.
+4. Hop on a call to see if you actually vibe outside of work.
+
+
+Do this, and you’ll stop wasting hours on the wrong hires.
+
+
+P.S. Also make sure your fulfillment systems are solid because no one wants to work in a messy agency.
+"""
+"""
+Tracking the results the content is generating for your clients might be one of the best moves you can make.
+
+
+It doesn’t just help you charge more—it also:
+
+
+- Positions you as a necessary partner in their business
+
+
+- Helps you close new clients with tangible proof
+
+
+- Shows the true value behind your service, not just ‘posts’
+
+
+Stop selling a content casino,
+
+
+Sell growth.
+"""
+## X/Twitter Content
+"""
+If clients don’t see what’s happening behind the scenes, they assume nothing’s happening.
+
+
+Show the work. Keep them updated. Keep the client.
+"""
+"""
+You can’t scale a content agency without systems.
+
+
+More clients = more requests
+More team members = more DMs
+More volume = more chaos
+
+
+Without systems, growth breaks everything.
+
+
+Build the backend before you try to scale.
+"""
+"""
+If you're constantly asking:
+
+
+– “Did we send that edit?”
+– “Is this the latest version?”
+– “Did the client approve this yet?”
+
+
+Congrats. You’re not running an agency.
+
+
+You’re babysitting broken systems.
+"""
+"""
+Hiring team members sucks — until you build systems around it.
+
+
+Set up a hiring system that helps you:
+
+
+- Get all candidates into an organized database
+
+
+- Filter them based on answers and samples
+
+
+- Track every applicant from new to onboarded
+
+
+- Make fast, confident decisions with clear data
+
+
+That’s how you go from “I’ll just do it myself”
+→ to building a real team that scales with you.
+"""
+"""
+Most content agencies hit $30k/mo and plateau.
+
+
+It’s rarely client acquisition—they just can’t take on more without burning out.
+
+
+The right systems can get you to $100k/mo… without losing your hairline.
+"""
+"""
+Why most content agencies get stuck at $10k/mo (while others scale to $30k, $50k+):
+
+
+They’re still doing everything themselves—
+
+
+→ Coming up with ideas
+→ Writing scripts
+→ Editing videos
+→ Quality checking
+
+
+It’s impossible to scale like this.
+
+
+The agencies that break past $10k don’t just get more clients.
+
+
+They build systems + operations that let them handle growth without burning out.
+"""
+"""
+Scaling a content agency isn’t just about getting more clients.
+
+
+It’s about:
+→ Hiring A-players who can handle the creative work
+→ Giving them the systems to succeed
+
+
+1–2 great hires can change your whole trajectory.
+
+
+Without systems, even the best talent won’t stay. No one wants to work in a messy agency.
+"""
+"""
+Stop thinking ‘no one else can do it like me.’
+
+
+Stop trying to wear every hat in your business.
+
+
+Stop keeping all the profit for yourself.
+
+
+Why?
+
+
+Because you simply can’t scale that way.
+
+
+Your team is what takes you past $10k/mo.
+
+
+Outsource the work.
+
+
+Free up your time for client acquisition.
+
+
+That’s how you scale.
+"""
+"""
+Delayed deliverables aren’t always a talent problem.
+
+
+Your team might be great at what they do… but:
+
+
+→ They’re waiting on briefs & folders
+→ They can’t see deadlines at all times
+→ Revisions turn into endless back-and-forth
+→ They don’t know what’s next
+
+
+Without systems, A-players won’t stick around.
+
+
+Set your team up to win—or don’t bother hiring them.
+"""
+"""
+Most people quit after 3 follow-ups.
+
+
+Not because prospects aren’t interested—
+but because they have no system reminding them to follow up again.
+
+
+You don’t need more leads.
+You need a system that makes consistent follow-up inevitable.
+
+
+P.S. A simple CRM does the job
+"""
+"""
+Tracking client results = higher AOV + LTV
+
+
+When you track outcomes, you stop selling ‘content’ and start selling growth.
+
+
+Show clients:
+→ The value vs. what they’re paying
+→ Month-over-month results
+→ How it compares to the rest of their marketing
+
+
+That’s how you position yourself as a growth partner.
+That’s how you charge more.
+That's how you keep clients for longer.
+
+
+Sell results, not a content casino.
+"""
+"""
+I might get cancelled for this but…
+
+
+Doing everything yourself isn’t a flex.
+
+
+“But I’ll lose profit if I hire.”
+
+
+I used to think that too.
+
+
+Truth is, you are the bottleneck keeping yourself stuck at $10k/mo.
+
+
+Lesson?
+
+
+Profit doesn’t matter if you can’t scale it.
+
+
+And scale only comes from systems + a team, not you wearing every hat.
+"""
+"""
+Crazy that there are content agencies that ignore ops...
+
+
+Having your operations dialed in literally does all of this:
+
+
+• Reduce client churn and increase LTV
+
+
+• Increase client capacity inside your business
+
+
+• Boost profit margins by cutting down how many editors/team members you need per client.
+
+
+• Free up loads of your time
+
+
+It's what separates agencies that plateau from those that keep growing.
+"""
+"""
+We helped 
+@shazmathew
+ scale from $5k/mo → $26k/mo.
+
+
+Before this, he couldn’t handle more than 3 clients without burning out.
+
+
+So, we built him a Custom Agency OS that replaced chaos with clarity.
+
+
+Here’s the 5-step process that made it happen🧵
+
+
+
+
+When Shaz came to me, he wanted freedom.
+
+
+Not just “more clients” but a business that could actually run without consuming his entire life.
+
+
+The problem?
+
+
+He didn’t need a random systems freelancer.
+
+
+Or an “ops guru” who’d never run a real agency.
+
+
+He needed someone who understood the content agency game.
+
+
+Someone who could turn his chaos into systems.
+
+
+
+
+And here’s the thing:
+
+
+Shaz already had a solid offer. Clients wanted it.
+
+
+But there was a big problem: he couldn’t scale.
+
+
+Most of his time, money, and energy was being drained by the lack of systems.
+
+
+Everything depended on him.
+
+
+And it capped him at just 3 clients max.
+
+
+That’s why the first step was clear: fix operations.
+
+
+
+
+So, before touching growth…
+
+
+I ran a deep operations audit inside his agency.
+
+
+We mapped every core process.
+
+
+Spotted bottlenecks.
+
+
+Laid out exactly what was breaking behind the scenes.
+
+
+Then, one by one, we:
+
+
+- Fixed broken processes
+
+
+- Rebuilt inefficient ones
+
+
+- Tested until systems ran without Shaz’s direct involvement
+
+
+The result? A smooth, scalable backend.
+
+
+But to make it stick long-term, we had to go one step further…
+
+
+
+
+So, we didn’t just fix what was broken.
+
+
+We documented every piece of the new system with:
+
+
+- SOPs
+- Walkthrough videos
+- Embedded guides
+
+
+So his team could actually follow them without friction.
+
+
+With the backend now smooth and scalable…
+
+
+…it was finally time to grow.
+
+
+
+
+Here’s the truth:
+
+
+You don’t scale to $20k, $50k, or $100k/month by working harder.
+
+
+You scale by building systems around the 5 essential agency pillars:
+
+
+- Client Acquisition
+- Client Management
+- Team Management
+- Deliverable Tracking
+- Communication Channels
+
+
+This became the backbone of Shaz’s Agency OS.
+
+
+
+
+Once these 5 pillars were in place…
+
+
+Shaz could finally handle more clients without drowning in chaos.
+
+
+That’s how we scaled from $5k → $26k/month.
+
+
+Simple truth:
+
+
+Scaling with chaos collapses your agency.
+
+
+Scaling with clarity grows it.
+
+
+
+
+Want the same result?
+
+
+I’m offering a free operations audit call where we’ll:
+
+
+- Review how your agency currently runs
+- Identify bottlenecks slowing growth
+- Give you actionable steps to improve your systems immediately
+
+
+DM me “Audit” or book a call now.
+"""
+# Outreach
+Below is the script of our personalized outreach video that we send to potential clients:
+"""
+What's up [NAME], thanks for clicking on this. I hope you are doing well. Now, the main reason why I’m reaching out today [NAME] and personally making this video for you is because I wanted to share a system that might help you scale your content agency operations, and I think you’re gonna love it. So please bare with me here.
+
+
+This the same system that we built for Shaz’s YT Agency, and he went from being completely stuck at handling only 3 clients to now scaling to 15 clients at the same time with a very small team, keeping his profit margins high — and as a result, his agency went from $5k to almost $30k/mo now.
+
+
+The reason why I'm telling you this is because the reality of most content agencies out there trying to scale is they that they get stuck, and physically can’t onboard more new clients. This happens due to having an unscalable, disorganized, and chaotic back-end system.
+
+
+Why is this so important? Is because, without proper systems:
+   * You can’t bring on more clients without sacrificing quality and turnaround time
+   * Your team is unproductive
+   * You spend all day in the DMs back and forth
+   * You don’t track results so you can justify the price of your services
+   * And on top of that, hiring is just one more bottleneck that you have to deal with
+
+
+So in this video I’m about to show you exactly how to solve each one of these problems and show you the systems required to scale to $100K/month without any chaos.
+
+
+Let's not waste more time, let's start.
+
+
+Now keep in mind that we setup custom systems for our clients so this is just an example for you to see what’s possible.
+
+
+So here I'm inside [BIZ] OS, and we built our system here inside of a tool called Airtable because it allows us to centralize all the agency operations in one place and in one database, so that we can link everything together. That's why 100k/month contact agency owners like Amon Arab, Jake Trinder, and Cam Muneer use the same tool stack as we do.
+*  
+On the left side, you can see all these different interfaces that tackle different parts of the agency, for example:
+* Pre-production and post-production are for service delivery.
+   * We have a hiring interface, a CRM, a workspace, and a client portal.
+   * 
+
+Right now, I'm inside a client portal interface that you share with all of your clients. It allows you to have an amazing client experience, increasing the value of your service. It enables you to charge more and reduce churn, all because of one simple system.
+* Why? Because you are giving your clients an easy way to review and approve the ideas, the scripts, and the videos that you are doing. A way to see all the videos that you are making and the progress of the work. And a clean dashboard to show the current content metrics and the results that you are generating for them. So they can see the ROI at the end of the month and keep working with YOU.
+   * 
+
+
+
+Now, when it comes to service delivery, we divide it into pre-production and post-production. We have AI tools to help you out with ideation and scriptwriting. We have team member portals to keep all of your team members much more productive. They can see the deadlines, get access to all the assets that they need right away, track their own progress, submit their work for review with one client, and just make faster and better work.
+* 
+
+You can see that we have a trackable system for every single stage of the project in video that needs to be done for the client, so that nothing gets missed - nothing slips through the cracks. You know what's happening at all times.
+* 
+
+
+
+In terms of hiring, we set up application forms and a hiring interface for you to manage and filter all the applicants and the people that submit your forms and allows you to onboard them successively to your agency much quicker.
+* 
+
+
+
+We even have a CRM to track Dream 100 outreach and a workspace to manage clients and team members.
+* 
+
+
+
+* And we haven't even touched on the Slack automations that keeps everyone in the loop + helps you just not have to spend hours DMing people back and forth all day.
+
+
+So yeah, this is just to show you what’s possible and I hope it gave you a bunch of ideas on what you can do inside your agency.
+
+
+Here’s the cool part—we’re so confident in our systems that we actually guarantee return on investment. So we just made the whole thing completely risk-free.
+
+
+Now [NAME], listen, I would love to chat with you. I don’t want to take too much of your time on this video, but we’ve got an amazing system and I would love the chance to share it with you in a little bit more depth.
+
+
+So yeah, if you’re open to new ways of scaling your content agency through better systems, let’s definitely have a chat, I’ve sent this to you personally, and I have no doubt you will reply. So I’ll look forward to chatting with you soon. Have an amazing day man, take care.
+"""
