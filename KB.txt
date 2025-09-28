@@ -944,37 +944,23 @@ Now keep in mind that we setup custom systems for our clients so this is just an
 
 
 So here I'm inside [BIZ] OS, and we built our system here inside of a tool called Airtable because it allows us to centralize all the agency operations in one place and in one database, so that we can link everything together. That's why 100k/month contact agency owners like Amon Arab, Jake Trinder, and Cam Muneer use the same tool stack as we do.
-*  
+
 On the left side, you can see all these different interfaces that tackle different parts of the agency, for example:
-* Pre-production and post-production are for service delivery.
-   * We have a hiring interface, a CRM, a workspace, and a client portal.
-   * 
+ - Pre-production and post-production are for service delivery.
+ - We have a hiring interface, a CRM, a workspace, and a client portal. 
 
 Right now, I'm inside a client portal interface that you share with all of your clients. It allows you to have an amazing client experience, increasing the value of your service. It enables you to charge more and reduce churn, all because of one simple system.
-* Why? Because you are giving your clients an easy way to review and approve the ideas, the scripts, and the videos that you are doing. A way to see all the videos that you are making and the progress of the work. And a clean dashboard to show the current content metrics and the results that you are generating for them. So they can see the ROI at the end of the month and keep working with YOU.
-   * 
-
-
+ - Why? Because you are giving your clients an easy way to review and approve the ideas, the scripts, and the videos that you are doing. A way to see all the videos that you are making and the progress of the work. And a clean dashboard to show the current content metrics and the results that you are generating for them. So they can see the ROI at the end of the month and keep working with YOU.
 
 Now, when it comes to service delivery, we divide it into pre-production and post-production. We have AI tools to help you out with ideation and scriptwriting. We have team member portals to keep all of your team members much more productive. They can see the deadlines, get access to all the assets that they need right away, track their own progress, submit their work for review with one client, and just make faster and better work.
-* 
 
 You can see that we have a trackable system for every single stage of the project in video that needs to be done for the client, so that nothing gets missed - nothing slips through the cracks. You know what's happening at all times.
-* 
-
-
 
 In terms of hiring, we set up application forms and a hiring interface for you to manage and filter all the applicants and the people that submit your forms and allows you to onboard them successively to your agency much quicker.
-* 
-
-
 
 We even have a CRM to track Dream 100 outreach and a workspace to manage clients and team members.
-* 
 
-
-
-* And we haven't even touched on the Slack automations that keeps everyone in the loop + helps you just not have to spend hours DMing people back and forth all day.
+And we haven't even touched on the Slack automations that keeps everyone in the loop + helps you just not have to spend hours DMing people back and forth all day.
 
 
 So yeah, this is just to show you what’s possible and I hope it gave you a bunch of ideas on what you can do inside your agency.
