@@ -914,6 +914,35 @@ I’m offering a free operations audit call where we’ll:
 
 DM me “Audit” or book a call now.
 """
+"""
+If you want to scale your content agency to $100k/m
+
+You better start building the systems that will:
+
+- Handle dozens of client deliverables every month
+- Speed up hiring and onboarding process
+- Manage a growing team without chaos
+- Automate 90% of communication with clients & team
+- Fully optimize your entire delivery process
+
+It’s physically impossible to scale a content agency to $100k/m without systems that give you the capacity to handle all of this volume smoothly.
+
+Start building now
+
+Or DM me "OS" and we will build it for you in 30 days
+"""
+"""
+please STOP using Google Drive for quality checking content inside your agency.
+
+Use http://Frame.io instead.
+
+1 pro account. (15$/mo)
+Shared with your whole team.
+QA goes from hours to minutes.
+
+P.S. you can also use it to review images.
+"""
+
 # Outreach
 Below is the script of our personalized outreach video that we send to potential clients:
 """
